@@ -7,7 +7,6 @@ import Link from 'next/link';
 import Style from "./NavBar.module.css";
 import images from "../../assets";
 import { Model, TokenList } from "../index";
-import { Button } from 'react-native-web';
 
 const NavBar = () => {
 
