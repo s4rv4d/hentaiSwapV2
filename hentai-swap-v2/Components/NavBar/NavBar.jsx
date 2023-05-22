@@ -79,7 +79,7 @@ const NavBar = () => {
           </div>
 
           <button
-            onClick={ () => {} }
+            onClick={ () => setOpenModel(true) }
           > Address</button>
 
           { openModel && (
